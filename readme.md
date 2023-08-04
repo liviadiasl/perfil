@@ -2,4 +2,4 @@
 
 ## Olá!!
 
-Sou estudante de desenvolvimennto de sistemas na ETEC e gosto muito de música, desenho e gatos!
+Sou estudante de desenvolvimento de sistemas na ETEC e gosto muito de música, desenho e gatos!
